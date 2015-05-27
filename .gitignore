@@ -5,4 +5,4 @@
 /pkg
 
 # Ignore sublime project
-middleman-html5_syntax.sublime-project
+/middleman-html5_syntax.sublime-project
