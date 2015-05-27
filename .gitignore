@@ -3,3 +3,6 @@
 
 # Ignore pkg folder
 /pkg
+
+# Ignore sublime project
+middleman-html5_syntax.sublime-project
